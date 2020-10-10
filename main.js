@@ -261,7 +261,7 @@
         target: "_blank"
         
         
-$("<a>").appendTo($("<div>").prependTo("body").text("サポートサーバー：")).text("https://discord.io/AARR").attr({href:"https://discord.io/AARR",target:"_blank"});
+$("<a>").appendTo($("<div>").prependTo("body").text("this is support server ! arrow right：")).text("https://discord.io/AARR").attr({href:"https://discord.io/AARR",target:"_blank"});
     
     }).appendTo(h);
     h.append("for more information.<br><br>");
